@@ -1,0 +1,24 @@
+{
+  "name": "node-api-utfpr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmatheusbueno/Node-API-UTFPR.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmatheusbueno/Node-API-UTFPR/issues"
+  },
+  "homepage": "https://github.com/jmatheusbueno/Node-API-UTFPR#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
